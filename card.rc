@@ -1,0 +1,4 @@
+#include "resource.h"
+//soundtrack
+
+ost_sound			WAVE		 ost.wav
